@@ -1,5 +1,5 @@
-# w3c-tpac2023-breakouts
-TPAC 2023 Breakout session proposal for Design Tokens.
+# TPAC 2023 Breakout session proposal for Design Tokens.
+
 [https://github.com/w3c/tpac-breakouts/wiki](https://github.com/w3c/tpac-breakouts/wiki)
 
 ## Proposal
